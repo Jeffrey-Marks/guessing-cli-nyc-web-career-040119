@@ -1,5 +1,5 @@
 def run_guessing_game
-  rand_num = rand(1..6)
+  rand_num = 1
   puts "Guess a number between 1 and 6."
   guess = gets
   
